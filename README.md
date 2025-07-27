@@ -21,4 +21,4 @@ pandas – data loading and analysis
 fpdf – PDF report generation
 
 OUTPUT :- 
-https://github.com/khushi2125/AUTOMATED-REPORT-GENERATION/issues/1#issue-3267120871
+(https://github.com/user-attachments/files/21454247/covid_fpdf_report.pdf)
