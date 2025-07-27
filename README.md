@@ -21,4 +21,4 @@ pandas – data loading and analysis
 fpdf – PDF report generation
 
 OUTPUT :- 
-(https://github.com/user-attachments/files/21454247/covid_fpdf_report.pdf)
+[covid_fpdf_report.pdf](https://github.com/user-attachments/files/21454247/covid_fpdf_report.pdf)
